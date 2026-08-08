@@ -1,5 +1,6 @@
 # Module Description
 Built a PowerShell script that connects to Microsoft Entra ID via Microsoft Graph API, scans every active directory role in the tenant, identifies all role assignments, flags high risk privileged roles, and exports a prioritized report. Designed to give instant visibility into who has admin access — critical for security audits and M&A tenant discovery.
+
 **Step 1 — Connected to Microsoft Graph**
 - Connected to Entra ID tenant using two scopes
 - RoleManagement.Read.All — new scope needed to read directory role assignments
