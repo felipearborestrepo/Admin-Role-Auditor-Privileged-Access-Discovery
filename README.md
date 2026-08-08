@@ -87,11 +87,11 @@ Write-Host "  Total role assignments : $($results.Count)"
 Write-Host "  High risk assignments  : $highRisk"
 Write-Host "  Standard assignments   : $standard"
 ```
-**Results in PowerShell**
+# Results in PowerShell
 
 <img width="515" height="240" alt="Screenshot 2026-07-29 at 21 59 12" src="https://github.com/user-attachments/assets/3f99da32-9666-435f-99ff-03674af0519d" />
 
-**Results in the CSV file**
+# Results in the CSV file
 
 <img width="1032" height="103" alt="Screenshot 2026-07-29 at 22 00 12" src="https://github.com/user-attachments/assets/afc8a036-e8ca-4ecd-a88e-1e22c210c3d8" />
 
